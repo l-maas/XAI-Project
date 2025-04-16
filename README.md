@@ -2,6 +2,8 @@
 #  Dependables Final Project Explainable AI
 
 In this document you will find all the relevant python libraries that need to be installed.
+If you do not have all the necesarry libraries installed, simply copy the code blocks below
+and run them in a new code cell in the notebook file.
 
 ## Dataset
 
